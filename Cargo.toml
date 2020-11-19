@@ -1,0 +1,8 @@
+[package]
+name = "rust_pi_monte_carlo"
+version = "0.1.0"
+authors = ["PupoSDC <pedro.pupo@ist.utl.pt>"]
+edition = "2018"
+
+[dependencies]
+rand = { git = "https://github.com/rust-lang-nursery/rand.git" }
